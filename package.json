@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bpuckhaber/codewars#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "<rootDir>/aliasGlobals.js"
